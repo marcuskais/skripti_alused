@@ -1,0 +1,10 @@
+1. Paigaldamine
+
+Linux: apt-get install git
+
+2. Seadistamine (töötava kasutaja alt)
+
+git config --global user.name "Ees Perenimi"
+git config --global user.email email@domeen
+
+git config --global core.editor nano 
