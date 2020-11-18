@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+#4 muutujat ja valjastab selle kombinatsiooni tulemuse
 #
 #
 aasta=2016
